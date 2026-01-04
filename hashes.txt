@@ -1,6 +1,6 @@
-﻿E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855 *C:\Users\Laptop\Desktop\Departmentalization vs. Compartmentalization (Evolved for Your Ecosystem)\hashes.txt
-D0E465B75D746ED98160FCAAE50005426C88D0291443F246E2C98A22F3711DBF *C:\Users\Laptop\Desktop\Departmentalization vs. Compartmentalization (Evolved for Your Ecosystem)\Screenshot 2026-01-04 073655.png
-ABA79B96393FE14ECEE38120C98E206EC81952275B3799C54BE476A69179CC08 *C:\Users\Laptop\Desktop\Departmentalization vs. Compartmentalization (Evolved for Your Ecosystem)\Screenshot 2026-01-04 073734.png
-5636F96A02E36E009B2FC5CF8EB25404DBA7F1F342D8C608587F55E3BAFD07F7 *C:\Users\Laptop\Desktop\Departmentalization vs. Compartmentalization (Evolved for Your Ecosystem)\_Departmentalization vs. Compartmentalization (Evolved for Your Ecosystem).docx
-FA3EEE07D3C1C88F5FCEBED160B76953CC55E94D296A7B16EE857F83DE41AA92 *C:\Users\Laptop\Desktop\Departmentalization vs. Compartmentalization (Evolved for Your Ecosystem)\_Departmentalization vs. Compartmentalization (Evolved for Your Ecosystem).md
-8DA98DB31ED0EE3540168A2535FC9FF3C5D12FB460A0EDCA3B2CA7FDE95E3189 *C:\Users\Laptop\Desktop\Departmentalization vs. Compartmentalization (Evolved for Your Ecosystem)\_Departmentalization vs. Compartmentalization (Evolved for Your Ecosystem).pdf
+﻿E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855 *C:\Users\Laptop\Desktop\x tokenuization thread\hashes.txt
+C6E012F04273A38D22A61ED7B557B9326DD253EB3536870F12D127B2767F4AFA *C:\Users\Laptop\Desktop\x tokenuization thread\Recording 2026-01-04 114926.mp4
+82DC73B3AEB6A32F8154ADB04C967829CB96116ED8E86CD0E3D606BC673CB831 *C:\Users\Laptop\Desktop\x tokenuization thread\Screenshot 2026-01-04 120354.png
+50464ECB2A73BD4E59ADEB5C73A8548A6D3F0CA2C96C44FFC05FB446318773F7 *C:\Users\Laptop\Desktop\x tokenuization thread\x tokenization full thread doc.docx
+E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855 *C:\Users\Laptop\Desktop\x tokenuization thread\x tokenization full thread doc.md
+017F43E8BA4491DE542911462F5520E99D54DDE1C0A8B675EEF770422DD91107 *C:\Users\Laptop\Desktop\x tokenuization thread\x tokenization full thread doc.pdf
